@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jeffk\source\repos\fractal generator\fractal generator\source.cpp(76): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  ZoomList.cpp
+  Generating Code...
+  Fractal generator.vcxproj -> C:\Users\jeffk\source\repos\Fractal generator\Debug\Fractal generator.exe
